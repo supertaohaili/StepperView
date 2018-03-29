@@ -16,13 +16,13 @@ allprojects {
 }
 
 dependencies {
-       compile 'com.github.supertaohaili:StepperView:1.0.11'
+       compile 'com.github.supertaohaili:StepperView:1.0.0'
 }
 ```
 
 #效果图：
 ```
- <img src="https://github.com/supertaohaili/book/StepperView/master/S80329-170715.jpg" width="300">
+ <img src="https://github.com/supertaohaili/StepperView/blob/master/S80329-170715.jpg" width="300">
 
 
 
