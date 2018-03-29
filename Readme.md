@@ -21,7 +21,7 @@ dependencies {
 ```
 
 #效果图：
-```
+
  <img src="https://github.com/supertaohaili/StepperView/blob/master/S80329-170715.jpg" width="300">
 
 
